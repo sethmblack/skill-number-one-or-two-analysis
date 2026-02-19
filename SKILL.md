@@ -3,8 +3,9 @@ name: number-one-or-two-analysis
 description: 'Evaluate a business unit or product line''s market position and determine whether to fix, sell, or close based on competitive position. Based on Jack Welch''s doctrine: "If you''re not #1 or #2 in you...'
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4587
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - '#1-or-#2-analysis'
 - writing
